@@ -10,6 +10,7 @@ I am a full-stack web developer, with Vue / TypeScript / Rust / Elixir stack bei
 
 - [Iroha v2.0.0 TypeScript SDK](https://github.com/hyperledger/iroha-javascript/tree/iroha2)
 - [SCALE codec TypeScript SDK](https://github.com/soramitsu/scale-codec-js-library)
+- [Iroha 2 Blockchain Explorer](https://github.com/soramitsu/iroha2-block-explorer-backend)
 - [Klaytn DEX Frontend](https://github.com/soramitsu/klaytn-dex-frontend)
 - [Soramitsu Web Design System](https://github.com/soramitsu/soramitsu-js-ui-library/tree/next)
 
